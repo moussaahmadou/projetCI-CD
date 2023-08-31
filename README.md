@@ -1,3 +1,3 @@
 # projet CI-CD
-ici le projet devops de moussa
+ici le projet CICD de moussa
 merci pour votre présence
